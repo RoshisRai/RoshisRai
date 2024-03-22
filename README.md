@@ -48,11 +48,12 @@ I'm particularly interested in web development, artificial intelligence, and dat
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://linkedin.com/in/mylink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshis-rai" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mylink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="roshis-rai" height="30" width="40" /></a>
-<a href="https://fb.com/roshis.rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roshis-rai" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/roshis-rai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshis-rai" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23743698/roshis-rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="roshis-rai" height="30" width="40" /></a>
+ <a href="https://twitter.com/RoshisRai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RoshisRai" height="30" width="40" /></a>
 <a href="https://instagram.com/awai.roshhh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awai.roshhh__" height="30" width="40" /></a>
-<!-- <a href="https://www.youtube.com/mylink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="roshis rai" height="30" width="40" /></a> -->
+<a href="https://www.youtube.com/@RoshisRai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="roshis rai" height="30" width="40" /></a>
+ <!-- <a href="https://fb.com/roshis.rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roshis-rai" height="30" width="40" /></a> -->
 </p>
 <br>
 
@@ -132,13 +133,13 @@ I'm particularly interested in web development, artificial intelligence, and dat
 
 ![Roshis's Graph](https://github-readme-activity-graph.vercel.app/graph?username=roshisrai&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
-
+<!--
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Achievements:</h3>
 
 [![An image of @roshisrai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/roshisrai)](https://holopin.io/@roshisrai)
-<br><br><br>
+<br><br><br>-->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
