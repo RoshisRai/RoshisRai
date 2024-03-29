@@ -131,7 +131,7 @@ I'm particularly interested in web development, artificial intelligence, and dat
 
 <h3 align="left">Activity:</h3>
 
-![Roshis's Graph](https://github-readme-activity-graph.vercel.app/graph?username=roshisrai&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Roshis's Graph](https://github-readme-activity-graph.vercel.app/graph?username=roshisrai&custom_title=Roshis's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 <!--
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
