@@ -37,7 +37,7 @@ I'm particularly interested in web development, artificial intelligence, and dat
 
 <!--- 👨‍💻 All of my projects are available at [roshis's workspace](http://roshis.io)-->
 
-- 💬 Ask me about **JavaScript, Python and C++**
+- 💬 Ask me about **Full-Stack Web Development**
 
 - 📫 How to reach me **rockyrd.12458@gmail.com**
 
@@ -87,7 +87,7 @@ I'm particularly interested in web development, artificial intelligence, and dat
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
   </a>
-</p>-->
+</p>
 
 - Tools
 <p align="left">
